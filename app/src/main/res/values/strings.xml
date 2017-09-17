@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VEHICLE_MAP_APP</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+</resources>
